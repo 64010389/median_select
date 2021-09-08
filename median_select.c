@@ -22,5 +22,5 @@ int main(){
 	}
 	median = (num[4]+num[5])/2;
 	printf("%.2f",median);
-	
+	return 0;
 }
